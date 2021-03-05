@@ -1,1 +1,1 @@
-Hello Git and GitFuck
+Hello Git and GitHub!
